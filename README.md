@@ -21,6 +21,7 @@ Install with Ionic CLI:
 
 ```
 ionic cordova plugin add cordova-plugin-ia-bluetooth-serial
+npm install @ionic-native/bluetooth-serial
 ```
 
 # API
