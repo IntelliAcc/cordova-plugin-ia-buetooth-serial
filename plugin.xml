@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-    xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-ia-bluetooth-serial" version="1.0.0">
+    xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-ia-bluetooth-serial" version="1.0.2">
 
     <name>Bluetooth Serial</name>
-    <description>Bluetooth Serial Communication Plugin</description>
+    <description>Bluetooth Serial plugin for Cordova Android</description>
     <license>Apache 2.0</license>
     <keywords>bluetooth, serial, android</keywords>
     <repo>https://github.com/NicolaasZA/cordova-plugin-ia-buetooth-serial.git</repo>

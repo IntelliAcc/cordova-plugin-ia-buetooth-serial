@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-ia-bluetooth-serial",
-  "version": "0.4.7",
-  "description": "Bluetooth Serial Communication Plugin",
+  "version": "1.0.2",
+  "description": "Bluetooth Serial plugin for Cordova Android",
   "main": "./www/bluetoothSerial.js",
   "cordova": {
     "id": "cordova-plugin-ia-bluetooth-serial",
