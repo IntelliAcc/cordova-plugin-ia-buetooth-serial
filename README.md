@@ -1,6 +1,9 @@
 **This is an Android-only fork of [github.com/don/BluetoothSerial](https://github.com/don/BluetoothSerial)**
 
-# Bluetooth Serial Plugin for Cordova
+# cordova-plugin-ia-bluetooth-serial
+
+[![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-ia-bluetooth-serial.svg) ](https://npm-stat.com/charts.html?package=cordova-plugin-ia-bluetooth-serial)
+[![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-ia-bluetooth-serial.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-ia-bluetooth-serial)
 
 This plugin enables serial communication over Bluetooth. It was written for communicating between Android and BLClassis serial devices.
 
